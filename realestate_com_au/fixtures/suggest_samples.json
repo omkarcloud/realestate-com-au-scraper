@@ -1,0 +1,456 @@
+{
+ "mixed": {
+  "_embedded": {
+   "suggestions": [
+    {
+     "_links": {
+      "self": {
+       "href": "./suburb/8ece3e33-d411-4ae8-b479-f6bd6c0f403f-3121"
+      }
+     },
+     "display": {
+      "subtext": "Suburb",
+      "text": "Richmond, VIC 3121"
+     },
+     "id": "8ece3e33-d411-4ae8-b479-f6bd6c0f403f-3121",
+     "source": {
+      "atlasId": "8ece3e33-d411-4ae8-b479-f6bd6c0f403f",
+      "name": "Richmond",
+      "postcode": "3121",
+      "state": "VIC"
+     },
+     "type": "suburb"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "./suburb/73181b1c-0592-427e-968e-45f4dfe4e74d-2753"
+      }
+     },
+     "display": {
+      "subtext": "Suburb",
+      "text": "Richmond, NSW 2753"
+     },
+     "id": "73181b1c-0592-427e-968e-45f4dfe4e74d-2753",
+     "source": {
+      "atlasId": "73181b1c-0592-427e-968e-45f4dfe4e74d",
+      "name": "Richmond",
+      "postcode": "2753",
+      "state": "NSW"
+     },
+     "type": "suburb"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "./suburb/adae5699-0f2b-4656-bcdc-20bfe7660db5-4077"
+      }
+     },
+     "display": {
+      "subtext": "Suburb",
+      "text": "Richlands, QLD 4077"
+     },
+     "id": "adae5699-0f2b-4656-bcdc-20bfe7660db5-4077",
+     "source": {
+      "atlasId": "adae5699-0f2b-4656-bcdc-20bfe7660db5",
+      "name": "Richlands",
+      "postcode": "4077",
+      "state": "QLD"
+     },
+     "type": "suburb"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "./suburb/a0fe1b3b-d547-4c60-8269-a5572dac9e54-5033"
+      }
+     },
+     "display": {
+      "subtext": "Suburb",
+      "text": "Richmond, SA 5033"
+     },
+     "id": "a0fe1b3b-d547-4c60-8269-a5572dac9e54-5033",
+     "source": {
+      "atlasId": "a0fe1b3b-d547-4c60-8269-a5572dac9e54",
+      "name": "Richmond",
+      "postcode": "5033",
+      "state": "SA"
+     },
+     "type": "suburb"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "./suburb/a89d2a3f-16ef-4274-b411-4f912d34873b-7025"
+      }
+     },
+     "display": {
+      "subtext": "Suburb",
+      "text": "Richmond, TAS 7025"
+     },
+     "id": "a89d2a3f-16ef-4274-b411-4f912d34873b-7025",
+     "source": {
+      "atlasId": "a89d2a3f-16ef-4274-b411-4f912d34873b",
+      "name": "Richmond",
+      "postcode": "7025",
+      "state": "TAS"
+     },
+     "type": "suburb"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "./suburb/7cc47158-5b6c-4ea1-8119-5ba422013b1a-4822"
+      }
+     },
+     "display": {
+      "subtext": "Suburb",
+      "text": "Richmond, QLD 4822"
+     },
+     "id": "7cc47158-5b6c-4ea1-8119-5ba422013b1a-4822",
+     "source": {
+      "atlasId": "7cc47158-5b6c-4ea1-8119-5ba422013b1a",
+      "name": "Richmond",
+      "postcode": "4822",
+      "state": "QLD"
+     },
+     "type": "suburb"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "./suburb/b20166f5-928b-40fc-96d4-a22413e6590f-4740"
+      }
+     },
+     "display": {
+      "subtext": "Suburb",
+      "text": "Richmond, QLD 4740"
+     },
+     "id": "b20166f5-928b-40fc-96d4-a22413e6590f-4740",
+     "source": {
+      "atlasId": "b20166f5-928b-40fc-96d4-a22413e6590f",
+      "name": "Richmond",
+      "postcode": "4740",
+      "state": "QLD"
+     },
+     "type": "suburb"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "./suburb/b5995606-1943-46f5-9f4d-cf3c027df5a9-2765"
+      }
+     },
+     "display": {
+      "subtext": "Suburb",
+      "text": "Richards, NSW 2765"
+     },
+     "id": "b5995606-1943-46f5-9f4d-cf3c027df5a9-2765",
+     "source": {
+      "atlasId": "b5995606-1943-46f5-9f4d-cf3c027df5a9",
+      "name": "Richards",
+      "postcode": "2765",
+      "state": "NSW"
+     },
+     "type": "suburb"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "./suburb/1eb7601b-446e-4ea5-b4cb-f5043ff42aa5-2905"
+      }
+     },
+     "display": {
+      "subtext": "Suburb",
+      "text": "Richardson, ACT 2905"
+     },
+     "id": "1eb7601b-446e-4ea5-b4cb-f5043ff42aa5-2905",
+     "source": {
+      "atlasId": "1eb7601b-446e-4ea5-b4cb-f5043ff42aa5",
+      "name": "Richardson",
+      "postcode": "2905",
+      "state": "ACT"
+     },
+     "type": "suburb"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "./suburb/fb565063-33cc-43d1-b73e-ac4aaf97c51a-2580"
+      }
+     },
+     "display": {
+      "subtext": "Suburb",
+      "text": "Richlands, NSW 2580"
+     },
+     "id": "fb565063-33cc-43d1-b73e-ac4aaf97c51a-2580",
+     "source": {
+      "atlasId": "fb565063-33cc-43d1-b73e-ac4aaf97c51a",
+      "name": "Richlands",
+      "postcode": "2580",
+      "state": "NSW"
+     },
+     "type": "suburb"
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "/consumer-suggest/suggestions?max=10&type=suburb%2Cregion%2Cpostcode%2Cstate%2Cstreet%2Caddress&src=homepage-web&query=rich"
+   }
+  },
+  "count": "10"
+ },
+ "state": {
+  "_embedded": {
+   "suggestions": [
+    {
+     "_links": {
+      "self": {
+       "href": "./state/AU-NSW"
+      }
+     },
+     "display": {
+      "subtext": "State",
+      "text": "New South Wales"
+     },
+     "id": "AU-NSW",
+     "source": {},
+     "type": "state"
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "/consumer-suggest/suggestions?max=5&type=state&src=homepage-web&query=new%20south"
+   }
+  },
+  "count": "1"
+ },
+ "street": {
+  "_embedded": {
+   "suggestions": [
+    {
+     "_links": {
+      "self": {
+       "href": "./street/8ff4de64-a49a-42ee-bbe6-a707555d03af"
+      }
+     },
+     "display": {
+      "subtext": "Street",
+      "text": "Buena Vista Ave, Coorparoo, QLD 4151"
+     },
+     "id": "8ff4de64-a49a-42ee-bbe6-a707555d03af",
+     "source": {},
+     "type": "street"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "./street/f2d51199-c95f-45fe-a313-1a83b793cb15"
+      }
+     },
+     "display": {
+      "subtext": "Street",
+      "text": "Buena Vista Ave, Denistone, NSW 2114"
+     },
+     "id": "f2d51199-c95f-45fe-a313-1a83b793cb15",
+     "source": {},
+     "type": "street"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "./street/47483662-6137-4767-b6ec-11e9ed5bab24"
+      }
+     },
+     "display": {
+      "subtext": "Street",
+      "text": "Buena Vista Ave, Lake Heights, NSW 2502"
+     },
+     "id": "47483662-6137-4767-b6ec-11e9ed5bab24",
+     "source": {},
+     "type": "street"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "./street/0b7621a0-716a-430d-8372-78ed6c9f4fdf"
+      }
+     },
+     "display": {
+      "subtext": "Street",
+      "text": "Buena Vista Ave, Mona Vale, NSW 2103"
+     },
+     "id": "0b7621a0-716a-430d-8372-78ed6c9f4fdf",
+     "source": {},
+     "type": "street"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "./street/03f5b10b-5e16-486b-ad09-3b0cbc0388d3"
+      }
+     },
+     "display": {
+      "subtext": "Street",
+      "text": "Buena Vista Ave, Mosman, NSW 2088"
+     },
+     "id": "03f5b10b-5e16-486b-ad09-3b0cbc0388d3",
+     "source": {},
+     "type": "street"
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "/consumer-suggest/suggestions?max=5&type=street&src=homepage-web&query=buena%20vista"
+   }
+  },
+  "count": "5"
+ },
+ "postcode": {
+  "_embedded": {
+   "suggestions": [
+    {
+     "_links": {
+      "self": {
+       "href": "./postcode/08a7d688-1256-4cd0-8156-f6e7d5dda629"
+      }
+     },
+     "display": {
+      "subtext": "Postcode",
+      "text": "2000"
+     },
+     "id": "08a7d688-1256-4cd0-8156-f6e7d5dda629",
+     "source": {
+      "atlasId": "08a7d688-1256-4cd0-8156-f6e7d5dda629",
+      "postcode": "2000"
+     },
+     "type": "postcode"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "./postcode/2b5e8ced-e298-4b57-a64d-edd2214d78df"
+      }
+     },
+     "display": {
+      "subtext": "Postcode",
+      "text": "2007"
+     },
+     "id": "2b5e8ced-e298-4b57-a64d-edd2214d78df",
+     "source": {
+      "atlasId": "2b5e8ced-e298-4b57-a64d-edd2214d78df",
+      "postcode": "2007"
+     },
+     "type": "postcode"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "./postcode/481f3329-7e4b-4c4c-8edf-dec4783b8b52"
+      }
+     },
+     "display": {
+      "subtext": "Postcode",
+      "text": "2008"
+     },
+     "id": "481f3329-7e4b-4c4c-8edf-dec4783b8b52",
+     "source": {
+      "atlasId": "481f3329-7e4b-4c4c-8edf-dec4783b8b52",
+      "postcode": "2008"
+     },
+     "type": "postcode"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "./postcode/e0ea3d30-84d1-4478-984f-65fa3cb82680"
+      }
+     },
+     "display": {
+      "subtext": "Postcode",
+      "text": "2009"
+     },
+     "id": "e0ea3d30-84d1-4478-984f-65fa3cb82680",
+     "source": {
+      "atlasId": "e0ea3d30-84d1-4478-984f-65fa3cb82680",
+      "postcode": "2009"
+     },
+     "type": "postcode"
+    },
+    {
+     "_links": {
+      "self": {
+       "href": "./postcode/bd422917-1939-458e-950b-218bcb317c4c"
+      }
+     },
+     "display": {
+      "subtext": "Postcode",
+      "text": "2010"
+     },
+     "id": "bd422917-1939-458e-950b-218bcb317c4c",
+     "source": {
+      "atlasId": "bd422917-1939-458e-950b-218bcb317c4c",
+      "postcode": "2010"
+     },
+     "type": "postcode"
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "/consumer-suggest/suggestions?max=5&type=postcode&src=homepage-web&query=20"
+   }
+  },
+  "count": "5"
+ },
+ "region": {
+  "_embedded": {
+   "suggestions": [
+    {
+     "_links": {
+      "self": {
+       "href": "./region/3bd3328a-b5cc-43a3-83cd-3b678e650219"
+      }
+     },
+     "display": {
+      "subtext": "Region",
+      "text": "Lower North Shore, NSW"
+     },
+     "id": "3bd3328a-b5cc-43a3-83cd-3b678e650219",
+     "source": {
+      "atlasId": "3bd3328a-b5cc-43a3-83cd-3b678e650219",
+      "name": "Lower North Shore",
+      "state": "NSW"
+     },
+     "type": "region"
+    }
+   ]
+  },
+  "_links": {
+   "self": {
+    "href": "/consumer-suggest/suggestions?max=5&type=region&src=homepage-web&query=lower"
+   }
+  },
+  "count": "1"
+ },
+ "school": {
+  "error": "Bad request"
+ },
+ "project": {
+  "error": "Bad request"
+ },
+ "empty": {
+  "_embedded": {
+   "suggestions": []
+  },
+  "_links": {
+   "self": {
+    "href": "/consumer-suggest/suggestions?max=5&type=suburb&src=homepage-web&query=zzzzqqq"
+   }
+  },
+  "count": "0"
+ }
+}

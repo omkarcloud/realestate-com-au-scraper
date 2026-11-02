@@ -1,0 +1,338 @@
+{
+ "all": [
+  {
+   "name": "Blessed Sacrament Catholic Primary School",
+   "url": "https://bscliftongardens.syd.catholic.edu.au",
+   "sector": "Independent",
+   "year_range": "K-6",
+   "school_type": "Primary",
+   "address": {
+    "street": null,
+    "suburb": "CLIFTON GARDENS",
+    "state": "NSW",
+    "postcode": "2088"
+   },
+   "location": {
+    "latitude": -33.8351,
+    "longitude": 151.245,
+    "accuracy": "ROOFTOP"
+   },
+   "distance": {
+    "value": 692,
+    "unit": "m"
+   }
+  },
+  {
+   "name": "Queenwood Junior School",
+   "url": null,
+   "sector": "Independent",
+   "year_range": "K-12",
+   "school_type": "Primary",
+   "address": {
+    "street": null,
+    "suburb": "MOSMAN",
+    "state": "NSW",
+    "postcode": "2088"
+   },
+   "location": {
+    "latitude": -33.8348,
+    "longitude": 151.243,
+    "accuracy": "ROOFTOP"
+   },
+   "distance": {
+    "value": 781,
+    "unit": "m"
+   }
+  },
+  {
+   "name": "Mosman Church of England Preparatory School",
+   "url": "http://www.mosmanprep.nsw.edu.au",
+   "sector": "Independent",
+   "year_range": "K-6",
+   "school_type": "Primary",
+   "address": {
+    "street": null,
+    "suburb": "MOSMAN",
+    "state": "NSW",
+    "postcode": "2088"
+   },
+   "location": {
+    "latitude": -33.8329,
+    "longitude": 151.24,
+    "accuracy": "ROOFTOP"
+   },
+   "distance": {
+    "value": 1101,
+    "unit": "m"
+   }
+  },
+  {
+   "name": "Mosman High School",
+   "url": "https://mosman-h.schools.nsw.gov.au",
+   "sector": "Government",
+   "year_range": "7-12",
+   "school_type": "Secondary",
+   "address": {
+    "street": "MILITARY RD",
+    "suburb": "MOSMAN",
+    "state": "NSW",
+    "postcode": "2088"
+   },
+   "location": {
+    "latitude": -33.8297,
+    "longitude": 151.243,
+    "accuracy": "ROOFTOP"
+   },
+   "distance": {
+    "value": 1319,
+    "unit": "m"
+   }
+  },
+  {
+   "name": "Mosman Public School",
+   "url": "https://mosman-p.schools.nsw.gov.au",
+   "sector": "Government",
+   "year_range": "K-6",
+   "school_type": "Primary",
+   "address": {
+    "street": "27 BELMONT RD",
+    "suburb": "MOSMAN",
+    "state": "NSW",
+    "postcode": "2088"
+   },
+   "location": {
+    "latitude": -33.8281,
+    "longitude": 151.241,
+    "accuracy": "ROOFTOP"
+   },
+   "distance": {
+    "value": 1542,
+    "unit": "m"
+   }
+  }
+ ],
+ "primary": [
+  {
+   "name": "Blessed Sacrament Catholic Primary School",
+   "url": "https://bscliftongardens.syd.catholic.edu.au",
+   "sector": "Independent",
+   "year_range": "K-6",
+   "school_type": "Primary",
+   "address": {
+    "street": null,
+    "suburb": "CLIFTON GARDENS",
+    "state": "NSW",
+    "postcode": "2088"
+   },
+   "location": {
+    "latitude": -33.8351,
+    "longitude": 151.245,
+    "accuracy": "ROOFTOP"
+   },
+   "distance": {
+    "value": 692,
+    "unit": "m"
+   }
+  },
+  {
+   "name": "Queenwood Junior School",
+   "url": null,
+   "sector": "Independent",
+   "year_range": "K-12",
+   "school_type": "Primary",
+   "address": {
+    "street": null,
+    "suburb": "MOSMAN",
+    "state": "NSW",
+    "postcode": "2088"
+   },
+   "location": {
+    "latitude": -33.8348,
+    "longitude": 151.243,
+    "accuracy": "ROOFTOP"
+   },
+   "distance": {
+    "value": 781,
+    "unit": "m"
+   }
+  },
+  {
+   "name": "Mosman Church of England Preparatory School",
+   "url": "http://www.mosmanprep.nsw.edu.au",
+   "sector": "Independent",
+   "year_range": "K-6",
+   "school_type": "Primary",
+   "address": {
+    "street": null,
+    "suburb": "MOSMAN",
+    "state": "NSW",
+    "postcode": "2088"
+   },
+   "location": {
+    "latitude": -33.8329,
+    "longitude": 151.24,
+    "accuracy": "ROOFTOP"
+   },
+   "distance": {
+    "value": 1101,
+    "unit": "m"
+   }
+  },
+  {
+   "name": "Mosman Public School",
+   "url": "https://mosman-p.schools.nsw.gov.au",
+   "sector": "Government",
+   "year_range": "K-6",
+   "school_type": "Primary",
+   "address": {
+    "street": "27 BELMONT RD",
+    "suburb": "MOSMAN",
+    "state": "NSW",
+    "postcode": "2088"
+   },
+   "location": {
+    "latitude": -33.8281,
+    "longitude": 151.241,
+    "accuracy": "ROOFTOP"
+   },
+   "distance": {
+    "value": 1542,
+    "unit": "m"
+   }
+  },
+  {
+   "name": "Queenwood, Art and Design Campus",
+   "url": null,
+   "sector": "Independent",
+   "year_range": "K-12",
+   "school_type": "Combined",
+   "address": {
+    "street": null,
+    "suburb": "MOSMAN",
+    "state": "NSW",
+    "postcode": "2088"
+   },
+   "location": {
+    "latitude": -33.8259,
+    "longitude": 151.251,
+    "accuracy": "ROOFTOP"
+   },
+   "distance": {
+    "value": 1751,
+    "unit": "m"
+   }
+  }
+ ],
+ "secondary": [
+  {
+   "name": "Mosman High School",
+   "url": "https://mosman-h.schools.nsw.gov.au",
+   "sector": "Government",
+   "year_range": "7-12",
+   "school_type": "Secondary",
+   "address": {
+    "street": "MILITARY RD",
+    "suburb": "MOSMAN",
+    "state": "NSW",
+    "postcode": "2088"
+   },
+   "location": {
+    "latitude": -33.8297,
+    "longitude": 151.243,
+    "accuracy": "ROOFTOP"
+   },
+   "distance": {
+    "value": 1319,
+    "unit": "m"
+   }
+  },
+  {
+   "name": "Queenwood, Art and Design Campus",
+   "url": null,
+   "sector": "Independent",
+   "year_range": "K-12",
+   "school_type": "Combined",
+   "address": {
+    "street": null,
+    "suburb": "MOSMAN",
+    "state": "NSW",
+    "postcode": "2088"
+   },
+   "location": {
+    "latitude": -33.8259,
+    "longitude": 151.251,
+    "accuracy": "ROOFTOP"
+   },
+   "distance": {
+    "value": 1751,
+    "unit": "m"
+   }
+  },
+  {
+   "name": "Queenwood",
+   "url": "http://www.queenwood.nsw.edu.au",
+   "sector": "Independent",
+   "year_range": "K-12",
+   "school_type": "Combined",
+   "address": {
+    "street": null,
+    "suburb": "MOSMAN",
+    "state": "NSW",
+    "postcode": "2088"
+   },
+   "location": {
+    "latitude": -33.823800000000006,
+    "longitude": 151.248,
+    "accuracy": "ROOFTOP"
+   },
+   "distance": {
+    "value": 1939,
+    "unit": "m"
+   }
+  },
+  {
+   "name": "SCECGS Redlands",
+   "url": "https://www.redlands.nsw.edu.au/",
+   "sector": "Independent",
+   "year_range": "K-12",
+   "school_type": "Combined",
+   "address": {
+    "street": null,
+    "suburb": "CREMORNE",
+    "state": "NSW",
+    "postcode": "2090"
+   },
+   "location": {
+    "latitude": -33.8322,
+    "longitude": 151.227,
+    "accuracy": "ROOFTOP"
+   },
+   "distance": {
+    "value": 2060,
+    "unit": "m"
+   }
+  },
+  {
+   "name": "SCECGS Redlands - Murdoch campus",
+   "url": null,
+   "sector": "Independent",
+   "year_range": "K-12",
+   "school_type": "Combined",
+   "address": {
+    "street": null,
+    "suburb": "CREMORNE",
+    "state": "NSW",
+    "postcode": "2090"
+   },
+   "location": {
+    "latitude": -33.8321,
+    "longitude": 151.227,
+    "accuracy": "ROOFTOP"
+   },
+   "distance": {
+    "value": 2066,
+    "unit": "m"
+   }
+  }
+ ]
+}
