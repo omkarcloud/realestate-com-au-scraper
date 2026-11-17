@@ -31,6 +31,7 @@ Image URLs are templates ("https://i2.au.reastatic.net/{size}/<hash>/image.jpg")
 the parsers fill the site's own large size so every link is fetchable.
 """
 import json
+import fastjson
 import re
 from datetime import datetime
 from html import unescape
@@ -60,7 +61,7 @@ def _deep(value):
         text = value.strip()
         if text[:1] in "{[":
             try:
-                return _deep(json.loads(text))
+                return _deep(fastjson.loads(text))
             except ValueError:
                 return value
         return value
@@ -79,10 +80,10 @@ def state(html):
         return None
     raw = match.group(1)
     try:
-        data = json.loads(raw)
+        data = fastjson.loads(raw)
     except ValueError:
         try:
-            data = json.loads(raw[:raw.rfind("}") + 1])
+            data = fastjson.loads(raw[:raw.rfind("}") + 1])
         except ValueError:
             return None
     return _deep(data)

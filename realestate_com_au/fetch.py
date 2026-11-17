@@ -51,6 +51,7 @@ import config
 import egress
 from realestate_com_au.refs import SCHOOLS_URL, SITE, SUGGEST_URL
 from scraper_errors import BadRequest, Blocked, NotFound, UpstreamError
+from scraper_utils import sessions
 
 IMPERSONATE = "chrome"
 PAGE_TIMEOUT = 60          # search pages are 1.2-2 MB
@@ -92,26 +93,13 @@ _local = threading.local()
 
 
 def _session():
-    sess = getattr(_local, "session", None)
-    if sess is None:
-        from curl_cffi import requests as curl_requests
-        sess = curl_requests.Session(impersonate=IMPERSONATE)
-        proxy = config.realestate_com_au_proxy()
-        if proxy:
-            sess.proxies = {"http": proxy, "https": proxy}
-        _local.session = sess
-    return sess
+    return sessions.thread_session(_local, lambda: sessions.curl_session(
+        IMPERSONATE, proxy_fn=config.realestate_com_au_proxy))
 
 
 def _drop_session():
     """Close the thread's session so the retry rides a fresh connection / exit."""
-    sess = getattr(_local, "session", None)
-    _local.session = None
-    if sess is not None:
-        try:
-            sess.close()
-        except Exception:
-            pass
+    sessions.drop(_local)
 
 
 # ---- the Kasada identity -----------------------------------------------------------------
